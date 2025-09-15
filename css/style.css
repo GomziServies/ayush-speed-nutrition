@@ -3867,7 +3867,7 @@ body.search-visible {
   margin-top: 5px;
   color: #FF6D00;
 }
-.Myogenix-page-content blockquote,
+.Speed-page-content blockquote,
 .format-quote blockquote,
 .blog-details-content blockquote {
   margin: 35px 0;
@@ -3884,7 +3884,7 @@ body.search-visible {
   font-style: italic;
   font-family: "Oswald", sans-serif;
 }
-.Myogenix-page-content blockquote::before,
+.Speed-page-content blockquote::before,
 .format-quote blockquote::before,
 .blog-details-content blockquote::before {
   content: "";
@@ -3896,7 +3896,7 @@ body.search-visible {
   height: 192px;
   z-index: -1;
 }
-.Myogenix-page-content blockquote span,
+.Speed-page-content blockquote span,
 .format-quote blockquote span,
 .blog-details-content blockquote span {
   display: block;
@@ -3907,7 +3907,7 @@ body.search-visible {
   text-transform: unset;
   letter-spacing: 0;
 }
-.Myogenix-page-content blockquote span > a,
+.Speed-page-content blockquote span > a,
 .format-quote blockquote span > a,
 .blog-details-content blockquote span > a {
   color: var(--tg-white);
